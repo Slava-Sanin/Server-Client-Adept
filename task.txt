@@ -1,0 +1,20 @@
+task for adept
+
+Golan Zakai <golan@adept.tech>
+
+-------------------------------------------------------------
+
+You should write a service in PHP that listen on port 8080;
+
+The service can have multiple clients at the same time.
+
+The service has 3 commands:
+
+Help - print all available commands.
+Search [search term] - search on google and print top 5 links.
+Diskspace - print the disk space of the server 
+
+Should build as if you have 100 commands, not only 3.
+Should use object oriented design.
+
+-------------------------------------------------------------
